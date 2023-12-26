@@ -1,5 +1,7 @@
 # cvd-reddit-nlp-analysis
-This is where Akaash & Swetha do their work for Deep Learning on Cardiovascular Disease-related Reddit posts. We build a classifier to predict whether a CVD-related post originated from the r/askWomen subreddit or the r/askMen subreddit.
+This is where Akaash Kambath & Swetha Pola did their work for Deep Learning on Cardiovascular Disease-related Reddit posts. We built a classifier to predict whether a CVD-related post originated from the r/askWomen subreddit or the r/askMen subreddit.
+
+Women experience 1.5 times longer delays for Cardiovascular Disease treatment compared to men, and an emergent hypothesis from select domain experts is that women experience and describe CVD symptoms differently from men.
 
 You'll find our data under the data folder.
 
